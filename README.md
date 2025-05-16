@@ -80,8 +80,6 @@ conagra-meat-substitute-sales/
 ├── requirements.txt               # Python package list
 ├── LICENSE                        # MIT License
 ├── README.md
-└── assets/
-    └── dollar_sales_plots.png    # Visualizations for README
 </pre>
 
 ---
